@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "version": "1.0.4",
-    "last_updated": "2026-07-21T19:05:00Z",
+    "version": "1.0.5",
+    "last_updated": "2026-07-21T19:22:00Z",
     "engine_compatibility": ">=1.0.0",
-    "description": "Base de datos depurada v104 de publicidad pura (sin dominios base funcionales de apps)"
+    "description": "Base de datos depurada v105 (gjrkc.hotminidrama.com liberado para usuario/tareas, judo.hotminidrama.com bloqueado para anuncios)"
   },
   "rulesets": {
     "advertising": [
@@ -106,8 +106,6 @@
       "app.adjust.com",
       "control.adjust.com",
       "judo.hotminidrama.com",
-      "gjrkc.hotminidrama.com",
-      "gjrk.hotminidrama.com",
       "toponad.com",
       "api.toponad.com",
       "mintegral.com",
