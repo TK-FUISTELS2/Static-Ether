@@ -1,20 +1,70 @@
 {
   "version": 107,
-  "timestamp": "2026-07-22T14:30:00Z",
+  "timestamp": "2026-07-22T15:35:00Z",
   "total_rules": 485,
   "checksum": "a1b2c3d4e5f67890123456789abcdef0123456789abcdef0123456789abcdef0",
   "update_info": {
     "force_update": false,
     "latest_version_code": 107,
-    "title": "Nueva Actualización Disponible",
-    "message": "Hay una nueva versión disponible de Static Ether Free con nuevas reglas de filtrado y optimización de velocidad.",
-    "update_url": "https://play.google.com/store/apps/details?id=com.tkzenith.staticether.free"
+    "update_url": "https://play.google.com/store/apps/details?id=com.tkzenith.staticether.free",
+    "title": {
+      "es": "🚀 Nueva Actualización Disponible",
+      "en": "🚀 New Update Available",
+      "pt": "🚀 Nova Atualização Disponível",
+      "fr": "🚀 Nouvelle Mise à Jour Disponible",
+      "de": "🚀 Neues Update Verfügbar",
+      "it": "🚀 Nuovo Aggiornamento Disponibile",
+      "ja": "🚀 新しいアップデートが利用可能です",
+      "ru": "🚀 Доступно Новое Обновление",
+      "zh": "🚀 有新版本可供更新"
+    },
+    "message": {
+      "es": "Hay una nueva versión disponible de Static Ether Free con reglas de filtrado actualizadas y mayor velocidad.",
+      "en": "A new version of Static Ether Free is available with updated filtering rules and performance enhancements.",
+      "pt": "Uma nova versão do Static Ether Free está disponível com regras de filtragem atualizadas e maior velocidade.",
+      "fr": "Une nouvelle version de Static Ether Free est disponible avec des règles de filtrage mises à jour et une vitesse accrue.",
+      "de": "Eine neue Version von Static Ether Free ist verfügbar mit aktualisierten Filterregeln und erhöhter Geschwindigkeit.",
+      "it": "È disponibile una nuova versione di Static Ether Free con regole di filtraggio aggiornate e maggiore velocità.",
+      "ja": "更新されたフィルタリングルールと高速化を備えたStatic Ether Freeの新しいバージョンが利用可能です。",
+      "ru": "Доступна новая версия Static Ether Free с обновленными правилами фильтрации и повышенной скоростью.",
+      "zh": "Static Ether Free 推出新版本，包含最新的过滤规则与性能提升。"
+    }
   },
   "pro_upgrade": {
     "show_banner": true,
-    "title": "⚡ Pásate a Static Ether PRO",
-    "description": "Desbloquea velocidad ultra-rápida sin límites, protección DNS personalizada y 0 anuncios.",
-    "button_text": "Obtener Versión PRO",
-    "pro_app_url": "https://play.google.com/store/apps/details?id=com.tkzenith.staticether.pro"
+    "pro_app_url": "https://play.google.com/store/apps/details?id=com.tkzenith.staticether.pro",
+    "title": {
+      "es": "⚡ Pásate a Static Ether PRO",
+      "en": "⚡ Upgrade to Static Ether PRO",
+      "pt": "⚡ Mude para o Static Ether PRO",
+      "fr": "⚡ Passez à Static Ether PRO",
+      "de": "⚡ Upgrade auf Static Ether PRO",
+      "it": "⚡ Passa a Static Ether PRO",
+      "ja": "⚡ Static Ether PRO にアップグレード",
+      "ru": "⚡ Перейти на Static Ether PRO",
+      "zh": "⚡ 升级到 Static Ether PRO"
+    },
+    "description": {
+      "es": "Desbloquea tiempo ilimitado, velocidad ultra-rápida sin restricciones y 0 anuncios.",
+      "en": "Unlock unlimited time, unrestricted ultra-fast speed, and zero ads.",
+      "pt": "Desbloqueie tempo ilimitado, velocidade ultra-rápida sem restrições e zero anúncios.",
+      "fr": "Débloquez un temps illimité, une vitesse maximale sans restriction et zéro publicité.",
+      "de": "Schalten Sie unbegrenzte Zeit, maximale Geschwindigkeit und 0 Werbung frei.",
+      "it": "Sblocca tempo illimitato, massima velocità senza restrizioni e 0 pubblicità.",
+      "ja": "無制限の時間、無制限の超高速速度、広告ゼロを解放しましょう。",
+      "ru": "Разблокируйте неограниченное время, сверхбыструю скорость и 0 рекламы.",
+      "zh": "解锁无限时间、无限制极速引擎与零广告体验。"
+    },
+    "button_text": {
+      "es": "Obtener PRO",
+      "en": "Get PRO",
+      "pt": "Obter PRO",
+      "fr": "Obtenir PRO",
+      "de": "PRO Holen",
+      "it": "Ottieni PRO",
+      "ja": "PRO を入手",
+      "ru": "Получить PRO",
+      "zh": "获取 PRO"
+    }
   }
 }
