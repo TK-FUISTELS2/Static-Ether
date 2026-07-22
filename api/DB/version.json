@@ -1,6 +1,20 @@
 {
   "version": 107,
-  "timestamp": "2026-07-21T20:10:00Z",
+  "timestamp": "2026-07-22T14:30:00Z",
   "total_rules": 485,
-  "checksum": "a1b2c3d4e5f67890123456789abcdef0123456789abcdef0123456789abcdef0"
+  "checksum": "a1b2c3d4e5f67890123456789abcdef0123456789abcdef0123456789abcdef0",
+  "update_info": {
+    "force_update": false,
+    "latest_version_code": 107,
+    "title": "Nueva Actualización Disponible",
+    "message": "Hay una nueva versión disponible de Static Ether Free con nuevas reglas de filtrado y optimización de velocidad.",
+    "update_url": "https://play.google.com/store/apps/details?id=com.tkzenith.staticether.free"
+  },
+  "pro_upgrade": {
+    "show_banner": true,
+    "title": "⚡ Pásate a Static Ether PRO",
+    "description": "Desbloquea velocidad ultra-rápida sin límites, protección DNS personalizada y 0 anuncios.",
+    "button_text": "Obtener Versión PRO",
+    "pro_app_url": "https://play.google.com/store/apps/details?id=com.tkzenith.staticether.pro"
+  }
 }
