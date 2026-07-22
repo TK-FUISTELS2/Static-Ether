@@ -47,9 +47,3 @@ Dado que **Static Ether Free no recopila ni almacena ningún dato de usuario en 
 ## 6. Cambios en esta Política de Privacidad
 
 Nos reservamos el derecho de actualizar esta Política de Privacidad periódicamente. Cualquier cambio significativo será publicado en esta misma página con la fecha de actualización correspondiente.
-
----
-
-## 7. Contacto y Soporte
-
-Si tienes alguna pregunta o inquietud sobre esta Política de Privacidad o las prácticas de seguridad de Static Ether Free, puedes ponerte en contacto con nosotros a través de nuestro repositorio oficial de GitHub:
