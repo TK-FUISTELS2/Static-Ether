@@ -1,0 +1,33 @@
+{
+  "version": 108,
+  "timestamp": "2026-07-22T17:15:00Z",
+  "total_rules": 485,
+  "checksum": "a1b2c3d4e5f67890123456789abcdef0123456789abcdef0123456789abcdef0",
+  "update_info": {
+    "force_update": false,
+    "latest_version_code": 108,
+    "update_url": "https://play.google.com/store/apps/details?id=com.tkzenith.staticether.free",
+    "title": {
+      "es": "🚀 Nueva Actualización Disponible",
+      "en": "🚀 New Update Available",
+      "pt": "🚀 Nova Atualização Disponível",
+      "fr": "🚀 Nouvelle Mise à Jour Disponible",
+      "de": "🚀 Neues Update Verfügbar",
+      "it": "🚀 Nuovo Aggiornamento Disponibile",
+      "ja": "🚀 新しいアップデートが利用可能です",
+      "ru": "🚀 Доступно Новое Обновление",
+      "zh": "🚀 有新版本可供更新"
+    },
+    "message": {
+      "es": "Hay una nueva versión disponible de Static Ether Free con reglas de filtrado actualizadas y mayor velocidad.",
+      "en": "A new version of Static Ether Free is available with updated filtering rules and performance enhancements.",
+      "pt": "Uma nova versão do Static Ether Free está disponível com regras de filtragem atualizadas e maior velocidade.",
+      "fr": "Une nouvelle version de Static Ether Free est disponible avec des règles de filtrage mises à jour et une vitesse accrue.",
+      "de": "Eine neue Version von Static Ether Free ist verfügbar mit aktualisierten Filterregeln und erhöhter Geschwindigkeit.",
+      "it": "È disponibile una nueva versione di Static Ether Free con regole di filtraggio aggiornate e maggiore velocità.",
+      "ja": "更新されたフィルタリングルールと高速化を備えたStatic Ether Freeの新しいバージョンが利用可能です。",
+      "ru": "Доступна новая версия Static Ether Free с обновленными правилами фильтрации и повышенной скоростью.",
+      "zh": "Static Ether Free 推出新版本，包含最新的过滤规则与性能提升。"
+    }
+  }
+}
