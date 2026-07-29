@@ -1,70 +1,75 @@
 {
-  "version": 109,
-  "timestamp": "2026-07-22T17:15:00Z",
+  "version": 110,
+  "timestamp": "2026-07-29T00:00:00Z",
   "total_rules": 485,
   "checksum": "a1b2c3d4e5f67890123456789abcdef0123456789abcdef0123456789abcdef0",
   "update_info": {
     "force_update": false,
-    "latest_version_code": 109,
-    "update_url": "https://play.google.com/store/apps/details?id=com.tkzenith.staticether.free",
+    "latest_version_code": 110,
+    "update_url": "https://play.google.com/store/apps/details?id=com.tkzenith.staticether",
     "title": {
-      "es": "🚀 Nueva Actualización Disponible",
-      "en": "🚀 New Update Available",
-      "pt": "🚀 Nova Atualização Disponível",
-      "fr": "🚀 Nouvelle Mise à Jour Disponible",
-      "de": "🚀 Neues Update Verfügbar",
-      "it": "🚀 Nuovo Aggiornamento Disponibile",
-      "ja": "🚀 新しいアップデートが利用可能です",
-      "ru": "🚀 Доступно Новое Обновление",
-      "zh": "🚀 有新版本可供更新"
+      "es": "🚀 Nueva Actualización Disponible v1.0.10",
+      "en": "🚀 New Update Available v1.0.10",
+      "pt": "🚀 Nova Atualização Disponível v1.0.10",
+      "fr": "🚀 Nouvelle Mise à Jour Disponible v1.0.10",
+      "de": "🚀 Neues Update Verfügbar v1.0.10",
+      "it": "🚀 Nuovo Aggiornamento Disponibile v1.0.10",
+      "ja": "🚀 新しいアップデートが利用可能です v1.0.10",
+      "ru": "🚀 Доступно Новое Обновление v1.0.10",
+      "zh": "🚀 有新版本可供更新 v1.0.10"
     },
     "message": {
-      "es": "Hay una nueva versión disponible de Static Ether Free con reglas de filtrado actualizadas y mayor velocidad.",
-      "en": "A new version of Static Ether Free is available with updated filtering rules and performance enhancements.",
-      "pt": "Uma nova versão do Static Ether Free está disponível com regras de filtragem atualizadas e maior velocidade.",
-      "fr": "Une nouvelle version de Static Ether Free est disponible avec des règles de filtrage mises à jour et une vitesse accrue.",
-      "de": "Eine neue Version von Static Ether Free ist verfügbar mit aktualisierten Filterregeln und erhöhter Geschwindigkeit.",
-      "it": "È disponibile una nueva versione di Static Ether Free con regole di filtraggio aggiornate e maggiore velocità.",
-      "ja": "更新されたフィルタリングルールと高速化を備えたStatic Ether Freeの新しいバージョンが利用可能です。",
-      "ru": "Доступна новая версия Static Ether Free с обновленными правилами фильтрации и повышенной скоростью.",
-      "zh": "Static Ether Free 推出新版本，包含最新的过滤规则与性能提升。"
+      "es": "¡Edición v1.0.10! Protección de hasta 20 horas diarias con renovación automática a las 00:00:00.",
+      "en": "v1.0.10 Release! Up to 20 hours of daily protection with automatic renewal at 00:00:00.",
+      "pt": "Edição v1.0.10! Até 20 horas de proteção diária com renovação automática às 00:00:00.",
+      "fr": "Édition v1.0.10! Jusqu'à 20 heures de protection quotidienne avec renouvellement automatique à 00:00:00.",
+      "de": "Ausgabe v1.0.10! Bis zu 20 Stunden täglicher Schutz mit automatischer Erneuerung um 00:00:00 Uhr.",
+      "it": "Edizione v1.0.10! Fino a 20 ore di protezione giornaliera con rinnovo automatico alle 00:00:00.",
+      "ja": "v1.0.10リリース！ 00:00:00に自動更新される最大20時間の毎日の保護。",
+      "ru": "Выпуск v1.0.10! До 20 часов ежедневной защиты с автоматическим продлением в 00:00:00.",
+      "zh": "v1.0.10 版本！每天高达 20 小时的保护，00:00:00 自动更新。"
     }
   },
-  "pro_upgrade": {
-    "show_banner": true,
-    "pro_app_url": "https://play.google.com/store/apps/details?id=com.tkzenith.staticether.pro",
+  "announcement": {
+    "id": "announcement_v110_welcome",
+    "enabled": true,
+    "show_modal": true,
+    "icon": "👋",
     "title": {
-      "es": "⚡ Pásate a Static Ether PRO",
-      "en": "⚡ Upgrade to Static Ether PRO",
-      "pt": "⚡ Mude para o Static Ether PRO",
-      "fr": "⚡ Passez à Static Ether PRO",
-      "de": "⚡ Upgrade auf Static Ether PRO",
-      "it": "⚡ Passa a Static Ether PRO",
-      "ja": "⚡ Static Ether PRO にアップグレード",
-      "ru": "⚡ Перейти на Static Ether PRO",
-      "zh": "⚡ 升级到 Static Ether PRO"
+      "es": "¡Bienvenido a Static Ether!",
+      "en": "Welcome to Static Ether!",
+      "pt": "Bem-vindo ao Static Ether!",
+      "fr": "Bienvenue sur Static Ether!",
+      "de": "Willkommen bei Static Ether!",
+      "it": "Benvenuto in Static Ether!",
+      "ja": "Static Etherへようこそ！",
+      "ru": "Добро пожаловать в Static Ether!",
+      "zh": "欢迎使用 Static Ether！"
     },
-    "description": {
-      "es": "Desbloquea tiempo ilimitado, velocidad ultra-rápida sin restricciones y 0 anuncios.",
-      "en": "Unlock unlimited time, unrestricted ultra-fast speed, and zero ads.",
-      "pt": "Desbloqueie tempo ilimitado, velocidade ultra-rápida sem restrições e zero anúncios.",
-      "fr": "Débloquez un temps illimité, une vitesse maximale sans restriction et zéro publicité.",
-      "de": "Schalten Sie unbegrenzte Zeit, maximale Geschwindigkeit und 0 Werbung frei.",
-      "it": "Sblocca tempo illimitato, massima velocità senza restrizioni e 0 pubblicità.",
-      "ja": "無制限の時間、無制限の超高速速度、広告ゼロを解放しましょう。",
-      "ru": "Разблокируйте неограниченное время, сверхбыструю скорость и 0 рекламы.",
-      "zh": "解锁无限时间、无限制极速引擎与零广告体验。"
+    "content": {
+      "es": "🎉 ¡Gracias por utilizar Static Ether!\n\n✨ Novedades en v1.0.10:\n• Hasta 20 horas diarias de protección activa.\n• Renovación automática todos los días a las 00:00:00.\n• Mayor velocidad de filtrado y optimización de batería.\n• Experiencia más fluida y sencilla.",
+      "en": "🎉 Thank you for using Static Ether!\n\n✨ What's new in v1.0.10:\n• Up to 20 hours of daily active protection.\n• Automatic renewal every day at 00:00:00.\n• Faster filtering speed and battery optimization.\n• Smoother and simpler experience.",
+      "pt": "🎉 Obrigado por usar o Static Ether!\n\n✨ Novidades na v1.0.10:\n• Até 20 horas diárias de proteção ativa.\n• Renovação automática todos os dias às 00:00:00.\n• Maior velocidade e economia de bateria.",
+      "fr": "🎉 Merci d'utiliser Static Ether!\n\n✨ Nouveautés de la v1.0.10:\n• Jusqu'à 20 heures de protection quotidienne.\n• Renouvellement automatique chaque jour à 00:00:00.\n• Vitesse optimisée et économie de batterie.",
+      "de": "🎉 Vielen Dank, dass Sie Static Ether verwenden!\n\n✨ Neuerungen in v1.0.10:\n• Bis zu 20 Stunden täglicher Schutz.\n• Automatische Erneuerung jeden Tag um 00:00:00 Uhr.\n• Schnelleres Filtern und Batterieoptimierung.",
+      "it": "🎉 Grazie per usare Static Ether!\n\n✨ Novità in v1.0.10:\n• Fino a 20 ore di protezione giornaliera.\n• Rinnovo automatico ogni giorno alle 00:00:00.\n• Velocità ottimizzata e risparmio batteria.",
+      "ja": "🎉 Static Etherをご利用いただきありがとうございます！\n\n✨ v1.0.10の最新情報：\n• 毎日最大20時間の保護アクティブ。\n• 毎日00:00:00に自動更新。\n• フィルタリング速度とバッテリーの最適化。",
+      "ru": "🎉 Спасибо за использование Static Ether!\n\n✨ Что нового в v1.0.10:\n• До 20 часов ежедневной активной защиты.\n• Автоматическое продление каждый день в 00:00:00.\n• Высокая скорость фильтрации и экономия батареи.",
+      "zh": "🎉 感谢使用 Static Ether！\n\n✨ v1.0.10 新特性：\n• 每天高达 20 小时的保护。\n• 每天 00:00:00 自动更新。\n• 更加快捷省电，体验更顺畅。"
     },
     "button_text": {
-      "es": "Obtener PRO",
-      "en": "Get PRO",
-      "pt": "Obter PRO",
-      "fr": "Obtenir PRO",
-      "de": "PRO Holen",
-      "it": "Ottieni PRO",
-      "ja": "PRO を入手",
-      "ru": "Получить PRO",
-      "zh": "获取 PRO"
-    }
+      "es": "Continuar",
+      "en": "Continue",
+      "pt": "Continuar",
+      "fr": "Continuer",
+      "de": "Fortfahren",
+      "it": "Continua",
+      "ja": "続行",
+      "ru": "Продолжить",
+      "zh": "继续"
+    },
+    "action_type": "dismiss",
+    "action_url": "",
+    "dismissible": true
   }
 }
