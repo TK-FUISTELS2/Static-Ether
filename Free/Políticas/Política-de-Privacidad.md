@@ -1,14 +1,14 @@
-# Política de Privacidad de Static Ether Free
+# Política de Privacidad de Static Ether
 
-**Última actualización:** 22 de Julio de 2026
+**Última actualización:** 28 de Julio de 2026
 
-En **Static Ether**, respetamos profundamente tu privacidad y estamos totalmente comprometidos a proteger tus datos personales y la seguridad de tu dispositivo. Esta Política de Privacidad explica de forma transparente cómo opera la aplicación **Static Ether Free** y confirma nuestro compromiso de cero recopilación de datos.
+En **Static Ether**, respetamos profundamente tu privacidad y estamos totalmente comprometidos a proteger tus datos personales y la seguridad de tu dispositivo. Esta Política de Privacidad explica de forma transparente cómo opera la aplicación **Static Ether** y confirma nuestro compromiso de cero recopilación de datos.
 
 ---
 
 ## 1. Operación 100% Local y Cero Recopilación de Datos (No-Logs Policy)
 
-- **Sin Registro de Actividad:** Static Ether Free **NO recopila, NO almacena y NO transmite** ningún tipo de información personal, historial de navegación, nombres de dominio consultados, consultas DNS, direcciones IP o identificadores de dispositivo.
+- **Sin Registro de Actividad:** Static Ether **NO recopila, NO almacena y NO transmite** ningún tipo de información personal, historial de navegación, nombres de dominio consultados, consultas DNS, direcciones IP o identificadores de dispositivo.
 - **Procesamiento en Dispositivo:** Todo el procesamiento y filtrado de paquetes DNS se realiza íntegramente en la memoria RAM local de tu dispositivo a través de un motor nativo C++ optimizado.
 - **Sin Seguimiento de Terceros:** La aplicación no incluye SDKs de publicidad, ni herramientas de analítica o rastreo (como Google Analytics, Firebase, AdMob o Facebook SDK).
 
@@ -16,7 +16,7 @@ En **Static Ether**, respetamos profundamente tu privacidad y estamos totalmente
 
 ## 2. Declaración del Permiso `VpnService` de Android
 
-Static Ether Free requiere y utiliza el permiso `VpnService` de Android bajo las siguientes condiciones estrictas:
+Static Ether requiere y utiliza el permiso `VpnService` de Android bajo las siguientes condiciones estrictas:
 
 1. **Uso Exclusivo como Bucle Invertido Local (Local Loopback TUN):** El servicio crea una interfaz de red local en tu dispositivo para interceptar únicamente solicitudes de resolución DNS en el puerto 53 local.
 2. **Sin Redirección Externa:** La aplicación **NO redirige tu tráfico de internet a ningún servidor VPN remoto, proxy o servidor de terceros**.
@@ -34,13 +34,13 @@ Static Ether Free requiere y utiliza el permiso `VpnService` de Android bajo las
 
 ## 4. Almacenamiento y Protección de Datos en el Dispositivo
 
-- **Temporizador de Cuota Diaria (Anti-Manipulación):** Para administrar el límite gratuito de 1 hora al día, la aplicación guarda un archivo binario ofuscado protegido por suma de comprobación criptográfica (`.sec_timer_v2.dat`) en el almacenamiento privado de la aplicación (`/data/data/com.tkzenith.staticether/files/`). Este archivo solo contiene contadores monotónicos del procesador del dispositivo y no guarda información de uso personal.
+- **Temporizador de Cuota Diaria (Anti-Manipulación):** Para administrar el límite diario, la aplicación guarda un archivo binario ofuscado protegido por suma de comprobación criptográfica (`.sec_timer_v2.dat`) en el almacenamiento privado de la aplicación (`/data/data/com.tkzenith.staticether/files/`). Este archivo solo contiene contadores monotónicos del procesador del dispositivo y no guarda información de uso personal.
 
 ---
 
 ## 5. Eliminación de Datos
 
-Dado que **Static Ether Free no recopila ni almacena ningún dato de usuario en servidores remotos**, no existen datos de usuario guardados en la nube para eliminar. Al desinstalar la aplicación de tu dispositivo, se eliminarán automáticamente todos los archivos de configuración local.
+Dado que **Static Ether no recopila ni almacena ningún dato de usuario en servidores remotos**, no existen datos de usuario guardados en la nube para eliminar. Al desinstalar la aplicación de tu dispositivo, se eliminarán automáticamente todos los archivos de configuración local.
 
 ---
 
