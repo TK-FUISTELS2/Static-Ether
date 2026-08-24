@@ -37,7 +37,7 @@
     }
   },
   "announcement": {
-    "id": "announcement_v115_welcome",
+    "id": "announcement_v1115_welcome",
     "enabled": true,
     "show_modal": true,
     "icon": "✨",
