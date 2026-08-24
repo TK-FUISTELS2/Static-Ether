@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "version": "1.1.16",
+    "version": "1.1.17",
     "last_updated": "2026-08-24T00:00:00Z",
     "engine_compatibility": ">=1.0.0",
-    "description": "Base de datos ultra-maestra v1115 de publicidad, RTB, subastas, ad networks globales y telemetria para StaticEther"
+    "description": "Base de datos ultra-maestra v117 de publicidad, RTB, subastas, ad networks globales y telemetria para StaticEther"
   },
   "rulesets": {
     "advertising": [
